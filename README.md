@@ -36,7 +36,7 @@ I created a student performance dashboard using demo data similar to Unacademy. 
 - Highlighted students needing improvement
 
 ## 🔹 Conclusion
-This dashboard helps educators track student performance effectively and make data-driven decisions.
+- This dashboard helps educators track student performance effectively and make data-driven decisions.
 
 ## 🔹 Project Output
 Excel Dashboard with visual representations of student performance
